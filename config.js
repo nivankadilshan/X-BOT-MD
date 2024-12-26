@@ -9,9 +9,9 @@ if (fs.existsSync('config.env')) {
 
 const LOGS = process.env.LOGS || "false";
 const API = "https://api-aswin-sparky.koyeb.app";
-const ALIVE = process.env.ALIVE || "I am Alive";
+const ALIVE = process.env.ALIVE || "I am Alive Now⬆️😏😏 ";
 const HANDLERS = process.env.HANDLERS || ".";
-const SESSION_ID = process.env.SESSION_ID || "A-S-W-I-N-S-P-A-R-K-Y:aa5bc6e05290210d6e99afd9a6c7c255";
+const SESSION_ID = process.env.SESSION_ID || "A-S-W-I-N-S-P-A-R-K-Y:850994b17fc4110eccf2b418a9a85168";
 const SUDO = process.env.SUDO || '94710646007';
 const AUTO_STATUS_VIEW = process.env.AUTO_STATUS_VIEW || "true";
 const ALWAYS_ONLINE = process.env.ALWAYS_ONLINE || "true";
